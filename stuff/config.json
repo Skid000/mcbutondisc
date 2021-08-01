@@ -1,0 +1,10 @@
+{
+    "discordToken": "Discord token here",
+    "name": "Mc!",
+    "prefix": "+",
+    "prismarinePort": 3001,
+    "serverAddress": "mc server here",
+    "serverPort": 33904,
+    "imgBBApiKey": "imgBBApikey here",
+    "imagePath": "stuff/image.png"
+}
