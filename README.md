@@ -1,1 +1,4 @@
 # mcbutondisc
+
+
+`node install`
