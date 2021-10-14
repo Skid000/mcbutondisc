@@ -1,4 +1,5 @@
 # mcbutondisc
 
 
-`node install`
+`npm install`
+`node index.js`
